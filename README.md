@@ -20,3 +20,15 @@ Esse GitHub é um respositório aberto que visa o compartilhamento de ideiais e 
 * Perl
 * Python
 
+# Contribuição
+
+Para contribuir para o repositório você deve abrir um *Pull Request* através da criação de um *Fork* da branch *master* para a sua *branch master* dentro do seu repositório.
+
+Algumas sugestões de atividades que podem ser desenvolvidas pela comunidade
+* Proposição de novos DOJOs
+* Comentários das soluções propostas
+* Atualização dos documentos, novos exemplos, organização da estrutura de pacotes
+* Correções em geral
+
+Para maiores informações sobre PR acesse [Creating a pull request](https://help.github.com/articles/creating-a-pull-request/)
+
